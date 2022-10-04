@@ -139,11 +139,13 @@ void COTutorial::LateUpdate()
 				pSellect_AttentionMark->SetDead();
 				StoryComplete = true;
 			}
+
 			if (TextBoxOnOff == true)
 			{
 				pSellect_TextBox->SetTextBoxTF(TextBoxOnOff);
 				pSellect_TextBox->SetChapterNumber(1);
 				pSellect_TextBox->SetTextNumber(m_TextNumber);
+
 				switch (WhoIsTeller)
 				{
 				case eChar_Num::ALPONSO:

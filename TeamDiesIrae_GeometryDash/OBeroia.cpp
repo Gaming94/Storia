@@ -175,7 +175,7 @@ void COBeroia::LateUpdate()
 		Monster_Iter = Monster_Map.begin();
 		for (Monster_Iter; Monster_Iter != Monster_Map.end(); Monster_Iter++)
 		{
-			//몬스터의 반경 내게 플레이어가 존재하면 포지션 정해줌
+			//몬스터의 반경 내에 플레이어가 존재하면 타겟 지정
 			if (abs(Monster_Iter->second->GetInfo().FX - pSellect_Player->GetInfo().FX) <= 500)
 			{
 				if (pSellect_Player->GetStatus().Cur_HP > 0)

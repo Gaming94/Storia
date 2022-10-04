@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{E63E67A5-C182-4EB3-9001-5A9EF0D489F6}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>TeamDiesIraeGeometryDash</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v142</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>false</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>msimg32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Attack_Effect.h" />
+    <ClInclude Include="BG_Bitmap.h" />
+    <ClInclude Include="BmpMgr.h" />
+    <ClInclude Include="COAttackRect.h" />
+    <ClInclude Include="ColigionMgr.h" />
+    <ClInclude Include="DamageFont.h" />
+    <ClInclude Include="Define.h" />
+    <ClInclude Include="Effect.h" />
+    <ClInclude Include="EffectMgr.h" />
+    <ClInclude Include="Enum.h" />
+    <ClInclude Include="Extern.h" />
+    <ClInclude Include="Hit_Effect.h" />
+    <ClInclude Include="KeyMgr.h" />
+    <ClInclude Include="Main.h" />
+    <ClInclude Include="OAlphaEffect.h" />
+    <ClInclude Include="OAlponso.h" />
+    <ClInclude Include="OAlponso_Illust.h" />
+    <ClInclude Include="OAttack_Effect.h" />
+    <ClInclude Include="OAttentionMark.h" />
+    <ClInclude Include="OBckGroundEffect.h" />
+    <ClInclude Include="OBeroia.h" />
+    <ClInclude Include="Obj.h" />
+    <ClInclude Include="ObjMgr.h" />
+    <ClInclude Include="OBoss.h" />
+    <ClInclude Include="OCookie.h" />
+    <ClInclude Include="ODamageFont.h" />
+    <ClInclude Include="ODeath_Effect.h" />
+    <ClInclude Include="OFireCracker.h" />
+    <ClInclude Include="OHit_Effect.h" />
+    <ClInclude Include="OHorseRace.h" />
+    <ClInclude Include="OLeo.h" />
+    <ClInclude Include="OLeo_Illust.h" />
+    <ClInclude Include="OLoading.h" />
+    <ClInclude Include="OMarket.h" />
+    <ClInclude Include="OMiniGame.h" />
+    <ClInclude Include="OMonster_Beach.h" />
+    <ClInclude Include="OMonster_Practice.h" />
+    <ClInclude Include="ONumbering.h" />
+    <ClInclude Include="ORaven.h" />
+    <ClInclude Include="ORocoTown.h" />
+    <ClInclude Include="OSanctuary.h" />
+    <ClInclude Include="OSelectCharacter.h" />
+    <ClInclude Include="OSelectMap.h" />
+    <ClInclude Include="OSelectMode.h" />
+    <ClInclude Include="OShadow.h" />
+    <ClInclude Include="OShield_Atk.h" />
+    <ClInclude Include="OSkillBox.h" />
+    <ClInclude Include="OText.h" />
+    <ClInclude Include="OTextBox.h" />
+    <ClInclude Include="OTutorial.h" />
+    <ClInclude Include="OTutorialBlObj.h" />
+    <ClInclude Include="OTutorialBlObj2.h" />
+    <ClInclude Include="OVolcano.h" />
+    <ClInclude Include="Player_Death.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="AbstractFactory.h" />
+    <ClInclude Include="SafeDeleteh.h" />
+    <ClInclude Include="SBeroia.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneMgr.h" />
+    <ClInclude Include="Shiled_Atk.h" />
+    <ClInclude Include="SLoading.h" />
+    <ClInclude Include="SMiniGame.h" />
+    <ClInclude Include="SoundMgr.h" />
+    <ClInclude Include="SRaven.h" />
+    <ClInclude Include="SRocoTown.h" />
+    <ClInclude Include="SSanctuary.h" />
+    <ClInclude Include="SSelectCharacter.h" />
+    <ClInclude Include="SSelectMode.h" />
+    <ClInclude Include="SSelectStage.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="Struct.h" />
+    <ClInclude Include="STutorial.h" />
+    <ClInclude Include="SVolcano.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="TeamDiesIrae_GeometryDash.h" />
+    <ClInclude Include="TypeDef.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Attack_Effect.cpp" />
+    <ClCompile Include="BG_Bitmap.cpp" />
+    <ClCompile Include="BmpMgr.cpp" />
+    <ClCompile Include="COAttackRect.cpp" />
+    <ClCompile Include="ColigionMgr.cpp" />
+    <ClCompile Include="DamageFont.cpp" />
+    <ClCompile Include="Effect.cpp" />
+    <ClCompile Include="EffectMgr.cpp" />
+    <ClCompile Include="Hit_Effect.cpp" />
+    <ClCompile Include="KeyMgr.cpp" />
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="OAlphaEffect.cpp" />
+    <ClCompile Include="OAlponso.cpp" />
+    <ClCompile Include="OAlponso_Illust.cpp" />
+    <ClCompile Include="OAttack_Effect.cpp" />
+    <ClCompile Include="OAttentionMark.cpp" />
+    <ClCompile Include="OBckGroundEffect.cpp" />
+    <ClCompile Include="OBeroia.cpp" />
+    <ClCompile Include="Obj.cpp" />
+    <ClCompile Include="ObjMgr.cpp" />
+    <ClCompile Include="OBoss.cpp" />
+    <ClCompile Include="OCookie.cpp" />
+    <ClCompile Include="ODamageFont.cpp" />
+    <ClCompile Include="ODeath_Effect.cpp" />
+    <ClCompile Include="OFireCracker.cpp" />
+    <ClCompile Include="OHit_Effect.cpp" />
+    <ClCompile Include="OHorseRace.cpp" />
+    <ClCompile Include="OLeo.cpp" />
+    <ClCompile Include="OLeo_Illust.cpp" />
+    <ClCompile Include="OLoading.cpp" />
+    <ClCompile Include="OMarket.cpp" />
+    <ClCompile Include="OMiniGame.cpp" />
+    <ClCompile Include="OMonster_Beach.cpp" />
+    <ClCompile Include="OMonster_Practice.cpp" />
+    <ClCompile Include="ONumbering.cpp" />
+    <ClCompile Include="ORaven.cpp" />
+    <ClCompile Include="ORocoTown.cpp" />
+    <ClCompile Include="OSanctuary.cpp" />
+    <ClCompile Include="OSelectCharacter.cpp" />
+    <ClCompile Include="OSelectMap.cpp" />
+    <ClCompile Include="OSelectMode.cpp" />
+    <ClCompile Include="OShadow.cpp" />
+    <ClCompile Include="OShield_Atk.cpp" />
+    <ClCompile Include="OSkillBox.cpp" />
+    <ClCompile Include="OText.cpp" />
+    <ClCompile Include="OTextBox.cpp" />
+    <ClCompile Include="OTutorial.cpp" />
+    <ClCompile Include="OTutorialBlObj.cpp" />
+    <ClCompile Include="OTutorialBlObj2.cpp" />
+    <ClCompile Include="OVolcano.cpp" />
+    <ClCompile Include="Player_Death.cpp" />
+    <ClCompile Include="SBeroia.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="SceneMgr.cpp" />
+    <ClCompile Include="Shiled_Atk.cpp" />
+    <ClCompile Include="SLoading.cpp" />
+    <ClCompile Include="SMiniGame.cpp" />
+    <ClCompile Include="SoundMgr.cpp" />
+    <ClCompile Include="SRaven.cpp" />
+    <ClCompile Include="SRocoTown.cpp" />
+    <ClCompile Include="SSanctuary.cpp" />
+    <ClCompile Include="SSelectCharacter.cpp" />
+    <ClCompile Include="SSelectMode.cpp" />
+    <ClCompile Include="SSelectStage.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="STutorial.cpp" />
+    <ClCompile Include="SVolcano.cpp" />
+    <ClCompile Include="TeamDiesIrae_GeometryDash.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TeamDiesIrae_GeometryDash.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico" />
+    <Image Include="TeamDiesIrae_GeometryDash.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

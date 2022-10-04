@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00_Main">
+      <UniqueIdentifier>{9492fc93-e2c1-4b4c-a3f5-a56fcea0ba1f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Default">
+      <UniqueIdentifier>{cc19e9a7-73c9-456b-95bd-b64b8f6b8bd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99_Default\리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="98_Header">
+      <UniqueIdentifier>{2ffaafa8-590c-4915-865a-1d2681bab061}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object">
+      <UniqueIdentifier>{b713a5ca-d7aa-4c95-965e-945014e42524}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern">
+      <UniqueIdentifier>{aaa15a92-abab-40b7-bfa3-7c4f01b95215}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\00_AbstractFactory">
+      <UniqueIdentifier>{d8dca62e-83e5-4052-bef3-4c1a7fb7311b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager">
+      <UniqueIdentifier>{eb813746-e535-4f9d-88c8-81a7a6163200}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\07_SoundMgr">
+      <UniqueIdentifier>{3582fd5b-7ae9-4b7f-964a-55f6b8839f77}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\02_BMPMgr">
+      <UniqueIdentifier>{da960e45-143d-4c12-9fda-6c52c7975936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\02_BMPMgr\00_BackGround">
+      <UniqueIdentifier>{f41899a3-9594-488e-80dc-8e8da6c36317}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\03_ColligionMgr">
+      <UniqueIdentifier>{d14fa7b5-ebf2-42dd-9513-e40b405e3759}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr">
+      <UniqueIdentifier>{d764e95a-43f9-468e-be4b-70a9f310720c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject">
+      <UniqueIdentifier>{64edfba4-8b94-4e74-84ec-9db54715a55e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\99_Scene">
+      <UniqueIdentifier>{26d9141b-0922-4e2b-ab2b-7b76d83dad6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\05_KeyMgr">
+      <UniqueIdentifier>{14b3b7e0-cbe9-4606-b381-3b9e16465f47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\06_ScrollMgr">
+      <UniqueIdentifier>{a161ae4f-95f8-4207-a6b9-2d04afeb64b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\01_ObjMgr">
+      <UniqueIdentifier>{dc44a63a-fb4c-47dc-8010-8d58bfc42b4a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\02_SafeDelete">
+      <UniqueIdentifier>{cb7cf8b8-d065-437f-920e-361bc90a793c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr">
+      <UniqueIdentifier>{c44ebe04-93d7-459d-b436-7f4b27e1c94b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect">
+      <UniqueIdentifier>{d1b5853c-607c-472c-8912-e8f844ae8152}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\00_Player_Death">
+      <UniqueIdentifier>{f8708e3d-840e-41a0-a11d-c3b76daf0bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\01_Loading">
+      <UniqueIdentifier>{8ccd0a9e-9b6c-4458-a987-cb7a96a1ccf2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character">
+      <UniqueIdentifier>{ede1c1a0-f213-46e5-8d40-da202ec75d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene">
+      <UniqueIdentifier>{f1d6f421-f243-47dd-97de-878308907e71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\03_Tutorial">
+      <UniqueIdentifier>{406780fd-d14a-4a35-bfc7-e4e4bd353847}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\02_SelectCharacter">
+      <UniqueIdentifier>{51a1202b-d395-4e8b-b457-6206bc58a08a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable">
+      <UniqueIdentifier>{2b315321-a67d-4a2b-9b48-6925327d4938}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\00_Alponso">
+      <UniqueIdentifier>{8939adf2-70cd-46cb-9291-f366524320f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\01_Leo">
+      <UniqueIdentifier>{99c0513d-5112-457f-b8ee-8195fa04b4c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\01_Attack_Effect">
+      <UniqueIdentifier>{67a96c1b-fc71-4f02-a1d1-a3f769ed1148}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\01_NonPlayable">
+      <UniqueIdentifier>{be042221-4554-4be7-98d7-203c7b7e2b90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\03_Text/TextBox">
+      <UniqueIdentifier>{c8c42a7f-ffa5-45a6-b8f5-69882d14c9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\03_Text/TextBox\01_TextBox">
+      <UniqueIdentifier>{5d83a830-cb2b-4242-9fb5-03401100759e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\03_Text/TextBox\00_Text">
+      <UniqueIdentifier>{a5dcd464-ed48-452d-9fd1-ac3635990025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\03_Text/TextBox\02_PressCrosBar">
+      <UniqueIdentifier>{17b9d7a4-001e-4829-a982-f276b1a8fc96}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\04_SkillBox">
+      <UniqueIdentifier>{f4de5182-4d9d-40db-906f-363ed35559e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\00_Alponso\99_Alponso_Illust">
+      <UniqueIdentifier>{457f5d9d-9a52-465c-bff3-b07b623b05b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\01_Leo\99_Leo_Illust">
+      <UniqueIdentifier>{fd36be58-3a60-430b-b11e-8b8297fdeec3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\04_SelectStage">
+      <UniqueIdentifier>{06b60ea2-68dd-4700-ba29-9d51e095f1cf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map">
+      <UniqueIdentifier>{af30a13b-c2a5-4396-bb80-a1cad9d07905}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\00_RocoTown">
+      <UniqueIdentifier>{c8e51c20-cd90-4ca5-96fe-4e324e3628d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\05_Monster">
+      <UniqueIdentifier>{d97ecd0d-3655-4e30-a3f5-be026f47d122}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\01_NonPlayable\00_Cookie">
+      <UniqueIdentifier>{77b44803-0778-4c3f-802f-2575262345fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\99_MinGame">
+      <UniqueIdentifier>{2cffe32b-aba0-4990-90bc-f7f7c27c0eb0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\99_MinGame\00_SMiniGame">
+      <UniqueIdentifier>{b53f2327-75d3-4a22-a8c8-652ed9381bca}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\01_Vocalno">
+      <UniqueIdentifier>{7bbc1585-085e-416b-a547-2473c622b0ec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\98_AttackRect">
+      <UniqueIdentifier>{9c2828ef-acff-49e1-9454-2fc1de9d92f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\01_SelectCharacter">
+      <UniqueIdentifier>{ec2f1444-2d8d-46cb-9fe4-3b0f5b425ecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\02_Tutorial">
+      <UniqueIdentifier>{6c4b73cc-37d3-4244-aa31-b34397adad92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\02_Tutorial\01_BlendObject">
+      <UniqueIdentifier>{e4efad5a-bc54-4675-a88b-944ae4807857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_L">
+      <UniqueIdentifier>{fe3a01ca-9742-4453-be09-b40267af1bef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_R">
+      <UniqueIdentifier>{ea4957b2-217b-43ea-a79c-052b834ddf69}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\03_SelectMap">
+      <UniqueIdentifier>{8c1af8ae-ca93-467c-aace-a1b726e292a5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map">
+      <UniqueIdentifier>{4d7a4f72-2820-45ec-8671-7a8835a2ca0b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\00_RocoTown">
+      <UniqueIdentifier>{c7b7c61d-971b-4c89-b859-2915dd8dafd1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\04_OldTree">
+      <UniqueIdentifier>{75d3311b-5b4c-4878-92d5-17ab562e105b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\05_Valonbrey">
+      <UniqueIdentifier>{6ea455ae-8b64-4c8a-adc8-f0a725ecf45c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\06_Ravenstern">
+      <UniqueIdentifier>{5dac44ed-1280-45eb-90bd-96629f943722}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\01_Volcano">
+      <UniqueIdentifier>{d7d5f6c6-5a9a-42ec-bbcf-446e0a5fb80a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\05_MiniGame">
+      <UniqueIdentifier>{b8003569-afc5-4de9-826a-a54366f98d58}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\00_Loading">
+      <UniqueIdentifier>{6854d11f-6b39-46dd-bb0e-092e9e041f3a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\01_SelectCharacter\99_AlphaEffect">
+      <UniqueIdentifier>{49d779c6-449b-4b2b-a46b-80572386561c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\02_Beroia">
+      <UniqueIdentifier>{3afdebb6-a1b1-4142-9183-c9fa29fd3087}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\02_Beroia">
+      <UniqueIdentifier>{2bcd3b29-39f7-4ea5-8451-b63e6bc90219}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\03_Sanctuary">
+      <UniqueIdentifier>{60f0e804-1393-40cd-ba45-85ab8c963072}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\03_Sanctuary">
+      <UniqueIdentifier>{ed5ea827-1ff9-4282-932e-7f3c76db8a6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\05_MiniGame\00_HorseRace">
+      <UniqueIdentifier>{f45858f4-7aac-4bf6-b348-464fa2882f19}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\05_MiniGame\00_HorseRace\00_FireCracker">
+      <UniqueIdentifier>{c3aa81a6-3f98-4a70-8222-9363b766685d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\98_SelectMode">
+      <UniqueIdentifier>{291ae010-9ccc-4ced-a0f5-330d57f75dd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\98_SelectMode">
+      <UniqueIdentifier>{94ea20f4-3fad-4830-a697-d3a8ee9d2351}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\05_MiniGame\00_HorseRace\01_Numbering">
+      <UniqueIdentifier>{d34e08f3-57ef-4c08-94c3-760a70988ee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="00_Main\00_Main">
+      <UniqueIdentifier>{fc16bc3c-13fa-45f2-99ba-898b8c089ef4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\02_Damage_Font">
+      <UniqueIdentifier>{affe6860-c915-4d7e-bd3d-fe8cc14f546a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\08_Raven">
+      <UniqueIdentifier>{d1079f1b-c0db-4aac-9bfe-f501f6de8593}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\08_Raven">
+      <UniqueIdentifier>{1750f507-1b19-41d3-ac48-3b36d5e6806e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\08_Raven\00_BackGroundEffect">
+      <UniqueIdentifier>{9d29d226-a60d-424f-a37c-f2b4ea547a5b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\05_Monster\00_Ground">
+      <UniqueIdentifier>{bdf57cd2-1706-4961-9b30-2854a5de4ea0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\05_Monster\02_Boss">
+      <UniqueIdentifier>{fb62e953-5ce6-4c7e-b7f2-d08cba550616}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\03_Hit_Effect">
+      <UniqueIdentifier>{5e0487ca-95f7-4cef-ade6-109cbdb7573e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect">
+      <UniqueIdentifier>{901a76bb-e658-4ebd-bca5-07b89a365009}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\00_Attack_Effect">
+      <UniqueIdentifier>{b9472c44-9088-4416-ab5e-49712b5cc041}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\01_AttentionMark">
+      <UniqueIdentifier>{2c4657ac-b784-46d0-a563-8fa4f2557d54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\02_Death_Effect">
+      <UniqueIdentifier>{1dfd92c0-c317-432d-a541-ff7d0da064ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\03_DamageFont">
+      <UniqueIdentifier>{9f777fa2-6239-4d35-ac34-fa1c0a3d7bed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\04_HIT_Effect">
+      <UniqueIdentifier>{be4978ec-1ff2-4d3c-868c-8ad84640cfef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\00_OScene\04_Map\03_Sanctuary\00_Market">
+      <UniqueIdentifier>{449820f3-4cde-4789-a002-3a72a1a7ca4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\01_Character\00_Playable\01_Leo\00_Shadow">
+      <UniqueIdentifier>{8f995554-4266-44df-abd7-25cae8fcd8d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\05_Monster\01_Beach">
+      <UniqueIdentifier>{9dee2119-0978-47e4-b34e-86263d972b92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01_Object\99_Effect\50_ShieldSkill">
+      <UniqueIdentifier>{ef3bb9fb-d6e7-4b4b-b4b7-a2e36207aae2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\04_Shiled_Atk">
+      <UniqueIdentifier>{2a5ef6b2-480f-46a2-999a-d36017638a93}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Main.h">
+      <Filter>00_Main\00_Main</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>99_Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>99_Default</Filter>
+    </ClInclude>
+    <ClInclude Include="TeamDiesIrae_GeometryDash.h">
+      <Filter>99_Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Define.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Enum.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Extern.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="Struct.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="TypeDef.h">
+      <Filter>98_Header</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjMgr.h">
+      <Filter>97_DesignPattern\01_Manager\01_ObjMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Obj.h">
+      <Filter>01_Object</Filter>
+    </ClInclude>
+    <ClInclude Include="BG_Bitmap.h">
+      <Filter>97_DesignPattern\01_Manager\02_BMPMgr\00_BackGround</Filter>
+    </ClInclude>
+    <ClInclude Include="BmpMgr.h">
+      <Filter>97_DesignPattern\01_Manager\02_BMPMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\99_Scene</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneMgr.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="SafeDeleteh.h">
+      <Filter>97_DesignPattern\02_SafeDelete</Filter>
+    </ClInclude>
+    <ClInclude Include="KeyMgr.h">
+      <Filter>97_DesignPattern\01_Manager\05_KeyMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="AbstractFactory.h">
+      <Filter>97_DesignPattern\00_AbstractFactory</Filter>
+    </ClInclude>
+    <ClInclude Include="SoundMgr.h">
+      <Filter>97_DesignPattern\01_Manager\07_SoundMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="STutorial.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\03_Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="ColigionMgr.h">
+      <Filter>97_DesignPattern\01_Manager\03_ColligionMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="EffectMgr.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Death.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\00_Player_Death</Filter>
+    </ClInclude>
+    <ClInclude Include="OTutorial.h">
+      <Filter>01_Object\00_OScene\02_Tutorial</Filter>
+    </ClInclude>
+    <ClInclude Include="OSelectCharacter.h">
+      <Filter>01_Object\00_OScene\01_SelectCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="SSelectCharacter.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\02_SelectCharacter</Filter>
+    </ClInclude>
+    <ClInclude Include="OAlponso.h">
+      <Filter>01_Object\01_Character\00_Playable\00_Alponso</Filter>
+    </ClInclude>
+    <ClInclude Include="OLeo.h">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo</Filter>
+    </ClInclude>
+    <ClInclude Include="Attack_Effect.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\01_Attack_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="OAttack_Effect.h">
+      <Filter>01_Object\99_Effect\00_Attack_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="OTextBox.h">
+      <Filter>01_Object\03_Text/TextBox\01_TextBox</Filter>
+    </ClInclude>
+    <ClInclude Include="OText.h">
+      <Filter>01_Object\03_Text/TextBox\00_Text</Filter>
+    </ClInclude>
+    <ClInclude Include="OSkillBox.h">
+      <Filter>01_Object\04_SkillBox</Filter>
+    </ClInclude>
+    <ClInclude Include="OAlponso_Illust.h">
+      <Filter>01_Object\01_Character\00_Playable\00_Alponso\99_Alponso_Illust</Filter>
+    </ClInclude>
+    <ClInclude Include="OAttentionMark.h">
+      <Filter>01_Object\99_Effect\01_AttentionMark</Filter>
+    </ClInclude>
+    <ClInclude Include="OLeo_Illust.h">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo\99_Leo_Illust</Filter>
+    </ClInclude>
+    <ClInclude Include="SSelectStage.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\04_SelectStage</Filter>
+    </ClInclude>
+    <ClInclude Include="OSelectMap.h">
+      <Filter>01_Object\00_OScene\03_SelectMap</Filter>
+    </ClInclude>
+    <ClInclude Include="SRocoTown.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\00_RocoTown</Filter>
+    </ClInclude>
+    <ClInclude Include="OTutorialBlObj.h">
+      <Filter>01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_L</Filter>
+    </ClInclude>
+    <ClInclude Include="OTutorialBlObj2.h">
+      <Filter>01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_R</Filter>
+    </ClInclude>
+    <ClInclude Include="ORocoTown.h">
+      <Filter>01_Object\00_OScene\04_Map\00_RocoTown</Filter>
+    </ClInclude>
+    <ClInclude Include="OCookie.h">
+      <Filter>01_Object\01_Character\01_NonPlayable\00_Cookie</Filter>
+    </ClInclude>
+    <ClInclude Include="SMiniGame.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\99_MinGame\00_SMiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="OMiniGame.h">
+      <Filter>01_Object\00_OScene\05_MiniGame</Filter>
+    </ClInclude>
+    <ClInclude Include="SVolcano.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\01_Vocalno</Filter>
+    </ClInclude>
+    <ClInclude Include="OVolcano.h">
+      <Filter>01_Object\00_OScene\04_Map\01_Volcano</Filter>
+    </ClInclude>
+    <ClInclude Include="COAttackRect.h">
+      <Filter>01_Object\01_Character\00_Playable\98_AttackRect</Filter>
+    </ClInclude>
+    <ClInclude Include="SLoading.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\01_Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="OLoading.h">
+      <Filter>01_Object\00_OScene\00_Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="OAlphaEffect.h">
+      <Filter>01_Object\00_OScene\01_SelectCharacter\99_AlphaEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="SBeroia.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\02_Beroia</Filter>
+    </ClInclude>
+    <ClInclude Include="OBeroia.h">
+      <Filter>01_Object\00_OScene\04_Map\02_Beroia</Filter>
+    </ClInclude>
+    <ClInclude Include="OSanctuary.h">
+      <Filter>01_Object\00_OScene\04_Map\03_Sanctuary</Filter>
+    </ClInclude>
+    <ClInclude Include="SSanctuary.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\03_Sanctuary</Filter>
+    </ClInclude>
+    <ClInclude Include="OHorseRace.h">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace</Filter>
+    </ClInclude>
+    <ClInclude Include="OFireCracker.h">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace\00_FireCracker</Filter>
+    </ClInclude>
+    <ClInclude Include="SSelectMode.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\98_SelectMode</Filter>
+    </ClInclude>
+    <ClInclude Include="OSelectMode.h">
+      <Filter>01_Object\00_OScene\98_SelectMode</Filter>
+    </ClInclude>
+    <ClInclude Include="ONumbering.h">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace\01_Numbering</Filter>
+    </ClInclude>
+    <ClInclude Include="OMonster_Practice.h">
+      <Filter>01_Object\05_Monster\00_Ground</Filter>
+    </ClInclude>
+    <ClInclude Include="ODeath_Effect.h">
+      <Filter>01_Object\99_Effect\02_Death_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="ODamageFont.h">
+      <Filter>01_Object\99_Effect\03_DamageFont</Filter>
+    </ClInclude>
+    <ClInclude Include="DamageFont.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\02_Damage_Font</Filter>
+    </ClInclude>
+    <ClInclude Include="ORaven.h">
+      <Filter>01_Object\00_OScene\04_Map\08_Raven</Filter>
+    </ClInclude>
+    <ClInclude Include="SRaven.h">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\08_Raven</Filter>
+    </ClInclude>
+    <ClInclude Include="OBckGroundEffect.h">
+      <Filter>01_Object\00_OScene\04_Map\08_Raven\00_BackGroundEffect</Filter>
+    </ClInclude>
+    <ClInclude Include="OBoss.h">
+      <Filter>01_Object\05_Monster\02_Boss</Filter>
+    </ClInclude>
+    <ClInclude Include="Hit_Effect.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\03_Hit_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="OHit_Effect.h">
+      <Filter>01_Object\99_Effect\04_HIT_Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="OMarket.h">
+      <Filter>01_Object\00_OScene\04_Map\03_Sanctuary\00_Market</Filter>
+    </ClInclude>
+    <ClInclude Include="OShadow.h">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo\00_Shadow</Filter>
+    </ClInclude>
+    <ClInclude Include="OMonster_Beach.h">
+      <Filter>01_Object\05_Monster\01_Beach</Filter>
+    </ClInclude>
+    <ClInclude Include="OShield_Atk.h">
+      <Filter>01_Object\99_Effect\50_ShieldSkill</Filter>
+    </ClInclude>
+    <ClInclude Include="Shiled_Atk.h">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\04_Shiled_Atk</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>00_Main\00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="TeamDiesIrae_GeometryDash.cpp">
+      <Filter>00_Main</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>99_Default</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\01_ObjMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Obj.cpp">
+      <Filter>01_Object</Filter>
+    </ClCompile>
+    <ClCompile Include="BG_Bitmap.cpp">
+      <Filter>97_DesignPattern\01_Manager\02_BMPMgr\00_BackGround</Filter>
+    </ClCompile>
+    <ClCompile Include="BmpMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\02_BMPMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\99_Scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="KeyMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\05_KeyMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="SoundMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\07_SoundMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="STutorial.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\03_Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="ColigionMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\03_ColligionMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="EffectMgr.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr</Filter>
+    </ClCompile>
+    <ClCompile Include="Player_Death.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\00_Player_Death</Filter>
+    </ClCompile>
+    <ClCompile Include="OTutorial.cpp">
+      <Filter>01_Object\00_OScene\02_Tutorial</Filter>
+    </ClCompile>
+    <ClCompile Include="OSelectCharacter.cpp">
+      <Filter>01_Object\00_OScene\01_SelectCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="SSelectCharacter.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\02_SelectCharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="OAlponso.cpp">
+      <Filter>01_Object\01_Character\00_Playable\00_Alponso</Filter>
+    </ClCompile>
+    <ClCompile Include="OLeo.cpp">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo</Filter>
+    </ClCompile>
+    <ClCompile Include="Attack_Effect.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\01_Attack_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="OAttack_Effect.cpp">
+      <Filter>01_Object\99_Effect\00_Attack_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="OTextBox.cpp">
+      <Filter>01_Object\03_Text/TextBox\01_TextBox</Filter>
+    </ClCompile>
+    <ClCompile Include="OText.cpp">
+      <Filter>01_Object\03_Text/TextBox\00_Text</Filter>
+    </ClCompile>
+    <ClCompile Include="OSkillBox.cpp">
+      <Filter>01_Object\04_SkillBox</Filter>
+    </ClCompile>
+    <ClCompile Include="OAlponso_Illust.cpp">
+      <Filter>01_Object\01_Character\00_Playable\00_Alponso\99_Alponso_Illust</Filter>
+    </ClCompile>
+    <ClCompile Include="OAttentionMark.cpp">
+      <Filter>01_Object\99_Effect\01_AttentionMark</Filter>
+    </ClCompile>
+    <ClCompile Include="OLeo_Illust.cpp">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo\99_Leo_Illust</Filter>
+    </ClCompile>
+    <ClCompile Include="SSelectStage.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\04_SelectStage</Filter>
+    </ClCompile>
+    <ClCompile Include="OSelectMap.cpp">
+      <Filter>01_Object\00_OScene\03_SelectMap</Filter>
+    </ClCompile>
+    <ClCompile Include="SRocoTown.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\00_RocoTown</Filter>
+    </ClCompile>
+    <ClCompile Include="OTutorialBlObj.cpp">
+      <Filter>01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_L</Filter>
+    </ClCompile>
+    <ClCompile Include="OTutorialBlObj2.cpp">
+      <Filter>01_Object\00_OScene\02_Tutorial\01_BlendObject\00_TutorialBLObj_R</Filter>
+    </ClCompile>
+    <ClCompile Include="ORocoTown.cpp">
+      <Filter>01_Object\00_OScene\04_Map\00_RocoTown</Filter>
+    </ClCompile>
+    <ClCompile Include="OCookie.cpp">
+      <Filter>01_Object\01_Character\01_NonPlayable\00_Cookie</Filter>
+    </ClCompile>
+    <ClCompile Include="SMiniGame.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\99_MinGame\00_SMiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="OMiniGame.cpp">
+      <Filter>01_Object\00_OScene\05_MiniGame</Filter>
+    </ClCompile>
+    <ClCompile Include="SVolcano.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\01_Vocalno</Filter>
+    </ClCompile>
+    <ClCompile Include="OVolcano.cpp">
+      <Filter>01_Object\00_OScene\04_Map\01_Volcano</Filter>
+    </ClCompile>
+    <ClCompile Include="COAttackRect.cpp">
+      <Filter>01_Object\01_Character\00_Playable\98_AttackRect</Filter>
+    </ClCompile>
+    <ClCompile Include="SLoading.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\01_Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="OLoading.cpp">
+      <Filter>01_Object\00_OScene\00_Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="OAlphaEffect.cpp">
+      <Filter>01_Object\00_OScene\01_SelectCharacter\99_AlphaEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="SBeroia.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\02_Beroia</Filter>
+    </ClCompile>
+    <ClCompile Include="OBeroia.cpp">
+      <Filter>01_Object\00_OScene\04_Map\02_Beroia</Filter>
+    </ClCompile>
+    <ClCompile Include="OSanctuary.cpp">
+      <Filter>01_Object\00_OScene\04_Map\03_Sanctuary</Filter>
+    </ClCompile>
+    <ClCompile Include="SSanctuary.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\03_Sanctuary</Filter>
+    </ClCompile>
+    <ClCompile Include="OHorseRace.cpp">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace</Filter>
+    </ClCompile>
+    <ClCompile Include="OFireCracker.cpp">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace\00_FireCracker</Filter>
+    </ClCompile>
+    <ClCompile Include="SSelectMode.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\98_SelectMode</Filter>
+    </ClCompile>
+    <ClCompile Include="OSelectMode.cpp">
+      <Filter>01_Object\00_OScene\98_SelectMode</Filter>
+    </ClCompile>
+    <ClCompile Include="ONumbering.cpp">
+      <Filter>01_Object\00_OScene\05_MiniGame\00_HorseRace\01_Numbering</Filter>
+    </ClCompile>
+    <ClCompile Include="OMonster_Practice.cpp">
+      <Filter>01_Object\05_Monster\00_Ground</Filter>
+    </ClCompile>
+    <ClCompile Include="ODeath_Effect.cpp">
+      <Filter>01_Object\99_Effect\02_Death_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="ODamageFont.cpp">
+      <Filter>01_Object\99_Effect\03_DamageFont</Filter>
+    </ClCompile>
+    <ClCompile Include="DamageFont.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\02_Damage_Font</Filter>
+    </ClCompile>
+    <ClCompile Include="ORaven.cpp">
+      <Filter>01_Object\00_OScene\04_Map\08_Raven</Filter>
+    </ClCompile>
+    <ClCompile Include="SRaven.cpp">
+      <Filter>97_DesignPattern\01_Manager\04_SceneMgr\00_SceneObject\05_Map\08_Raven</Filter>
+    </ClCompile>
+    <ClCompile Include="OBckGroundEffect.cpp">
+      <Filter>01_Object\00_OScene\04_Map\08_Raven\00_BackGroundEffect</Filter>
+    </ClCompile>
+    <ClCompile Include="OBoss.cpp">
+      <Filter>01_Object\05_Monster\02_Boss</Filter>
+    </ClCompile>
+    <ClCompile Include="Hit_Effect.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\03_Hit_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="OHit_Effect.cpp">
+      <Filter>01_Object\99_Effect\04_HIT_Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="OMarket.cpp">
+      <Filter>01_Object\00_OScene\04_Map\03_Sanctuary\00_Market</Filter>
+    </ClCompile>
+    <ClCompile Include="OShadow.cpp">
+      <Filter>01_Object\01_Character\00_Playable\01_Leo\00_Shadow</Filter>
+    </ClCompile>
+    <ClCompile Include="OMonster_Beach.cpp">
+      <Filter>01_Object\05_Monster\01_Beach</Filter>
+    </ClCompile>
+    <ClCompile Include="OShield_Atk.cpp">
+      <Filter>01_Object\99_Effect\50_ShieldSkill</Filter>
+    </ClCompile>
+    <ClCompile Include="Shiled_Atk.cpp">
+      <Filter>97_DesignPattern\01_Manager\08_EffectMgr\00_Effect\04_Shiled_Atk</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TeamDiesIrae_GeometryDash.rc">
+      <Filter>99_Default\리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>99_Default\리소스 파일</Filter>
+    </Image>
+    <Image Include="TeamDiesIrae_GeometryDash.ico">
+      <Filter>99_Default\리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

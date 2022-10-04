@@ -1,0 +1,564 @@
+﻿  stdafx.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SoundMgr.h(65,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(12,58): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(12,76): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(13,60): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(13,80): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(22,47): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(23,47): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(25,46): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\EffectMgr.h(26,46): warning C4244: 'return': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Attack_Effect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Attack_Effect.cpp(53,67): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Attack_Effect.cpp(53,52): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Attack_Effect.cpp(53,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Attack_Effect.cpp(53,25): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BG_Bitmap.cpp
+  BmpMgr.cpp
+  COAttackRect.cpp
+  ColigionMgr.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ColigionMgr.cpp(79,23): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ColigionMgr.cpp(144,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ColigionMgr.cpp(145,17): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ColigionMgr.cpp(150,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ColigionMgr.cpp(151,15): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  DamageFont.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\DamageFont.cpp(35,67): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\DamageFont.cpp(35,52): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\DamageFont.cpp(35,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\DamageFont.cpp(35,25): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Effect.cpp
+  EffectMgr.cpp
+  Hit_Effect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Hit_Effect.cpp(38,67): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Hit_Effect.cpp(38,52): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Hit_Effect.cpp(38,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Hit_Effect.cpp(38,25): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  KeyMgr.cpp
+  Main.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Main.cpp(62,22): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  OAlphaEffect.cpp
+  OAlponso.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(12,30): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(13,30): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(47,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(54,131): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(55,131): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(102,22): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(242,22): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(246,63): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(246,42): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(250,62): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(250,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(295,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(295,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(295,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(295,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(294,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(294,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(319,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(329,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(339,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(349,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(359,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso.cpp(370,37): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OAlponso_Illust.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(23,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(24,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(59,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(72,77): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(72,30): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(71,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(71,53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(71,35): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(71,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(78,38): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(78,25): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(77,63): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAlponso_Illust.cpp(77,44): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OAttack_Effect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(7,30): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(30,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(42,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(48,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(60,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(91,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(91,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(90,68): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(90,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(89,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttack_Effect.cpp(89,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OAttentionMark.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(19,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(20,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(76,124): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(76,111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(76,84): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(76,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(76,51): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(80,87): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OAttentionMark.cpp(80,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OBckGroundEffect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(17,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(18,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(49,37): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(49,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(48,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBckGroundEffect.cpp(48,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OBeroia.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(107,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(110,118): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(128,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(133,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(140,106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COMonster_Practice>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(133): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COMonster_Practice>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(133): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COMonster_Practice>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(38): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBeroia.cpp(38): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Obj.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(94,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(95,21): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(124,19): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(125,19): warning C4244: '=': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(133,40): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Obj.cpp(147,45): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ObjMgr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  OBoss.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(24,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(101,109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(101,96): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(101,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(101,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(100,86): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(100,67): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(112,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(123,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(145,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(155,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OBoss.cpp(165,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OCookie.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(28,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(38,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(60,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(63,111): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(64,111): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(98,62): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(98,40): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(102,61): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(102,40): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(121,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(121,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(121,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(121,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(120,83): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OCookie.cpp(120,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ODamageFont.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODamageFont.cpp(55,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODamageFont.cpp(55,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODamageFont.cpp(54,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODamageFont.cpp(53,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODamageFont.cpp(53,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ODeath_Effect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(6,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(23,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(27,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(39,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(72,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(72,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(71,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(71,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(70,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(70,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(79,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(79,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(78,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(78,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(77,82): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ODeath_Effect.cpp(77,65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OFireCracker.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(18,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(19,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(25,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(52,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(52,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(52,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(51,78): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(51,61): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(51,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OFireCracker.cpp(51,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OHit_Effect.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(6,33): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(23,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(27,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(39,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(72,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(72,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(71,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(71,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(70,89): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(70,70): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(79,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(79,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(78,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(78,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(77,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(77,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(86,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(86,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(85,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(85,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(84,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(84,65): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(93,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(93,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(92,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(92,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(91,79): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHit_Effect.cpp(91,66): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OHorseRace.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.h(36,31): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.h(37,34): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(118,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(121,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(124,50): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(128,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(129,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(130,46): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(133,27): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(190,11): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COFireCracker>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(97): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COFireCracker>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(97): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COFireCracker>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(32): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.cpp(32): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OLeo.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(55,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(62,119): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(63,119): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(128,22): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(255,89): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(273,34): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(316,64): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(316,42): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(320,63): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(320,41): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(375,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(375,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(375,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(375,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(374,73): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(374,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(387,11): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(398,16): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(421,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(433,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(445,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(457,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(469,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(481,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(493,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(505,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(517,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(529,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(541,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo.cpp(554,39): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OLeo_Illust.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(22,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(23,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLeo_Illust.cpp(51,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OLoading.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLoading.cpp(37,29): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COAlponso>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLoading.cpp(25): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COAlponso>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OLoading.cpp(25): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COAlponso>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OMarket.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(19,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(20,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(97,115): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(97,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(97,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMarket.cpp(97,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OMiniGame.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COAlponso_Illust>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMiniGame.cpp(44): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COAlponso_Illust>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMiniGame.cpp(44): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COAlponso_Illust>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMiniGame.cpp(31): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMiniGame.cpp(31): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OMonster_Beach.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(31,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(199,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(199,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(199,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(199,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(198,83): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(198,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(203,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(214,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(234,28): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(255,28): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(277,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(287,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(297,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Beach.cpp(307,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OMonster_Practice.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(30,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(204,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(204,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(204,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(204,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(203,84): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(203,64): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(215,10): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(226,15): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(246,28): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(267,28): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(289,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(299,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(309,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OMonster_Practice.cpp(319,41): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ONumbering.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(22,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(23,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(32,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(75,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(75,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(75,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(75,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(74,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(74,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(74,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(74,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(80,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(80,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(80,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(80,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(79,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(79,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(79,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(79,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(85,104): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(85,91): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(85,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(85,24): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(84,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(84,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(84,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ONumbering.cpp(84,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ORaven.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COBoss>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORaven.cpp(56): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COBoss>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORaven.cpp(56): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COBoss>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORaven.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORaven.cpp(41): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  ORocoTown.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(211,53): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(232,53): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(239,53): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(258,41): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(259,28): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(260,53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(38): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\ORocoTown.cpp(38): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OSanctuary.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(134,87): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(160,88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(173,88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(186,88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(199,88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(212,88): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COMarket>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(124): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COMarket>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(124): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COMarket>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(34): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSanctuary.cpp(34): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OSelectCharacter.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectCharacter.cpp(41): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectCharacter.cpp(41): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OSelectMap.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.h(43,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(69,21): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(78,81): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(78,51): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(109,22): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(44): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.cpp(44): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  OSelectMode.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(21,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(22,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(43,40): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(43,27): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(46,42): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMode.cpp(46,29): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OShadow.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShadow.cpp(45,112): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShadow.cpp(45,99): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShadow.cpp(45,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShadow.cpp(45,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OShield_Atk.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(23,39): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(27,84): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(75,103): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(75,90): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(75,59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(75,23): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(74,69): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(74,56): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(74,44): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OShield_Atk.cpp(74,32): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OSkillBox.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(22,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(23,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(46,115): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(46,102): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(46,75): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSkillBox.cpp(46,62): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OText.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OText.cpp(110,19): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  OTextBox.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(27,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(28,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(30,72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(30,60): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,110): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,97): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,70): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,57): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,45): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(107,33): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo_Illust>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(36): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo_Illust>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTextBox.cpp(36): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo_Illust>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OTutorial.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COAttentionMark>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorial.cpp(63): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COAttentionMark>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorial.cpp(63): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COAttentionMark>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COTextBox>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorial.cpp(60): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COTextBox>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorial.cpp(60): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COTextBox>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OTutorialBlObj.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(17,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(18,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(49,111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(49,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(49,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj.cpp(49,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OTutorialBlObj2.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(18,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(19,53): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(50,111): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(50,98): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(50,71): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OTutorialBlObj2.cpp(50,58): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  OVolcano.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(103,101): warning C4244: '인수': 'const float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(115,15): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(118,108): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(17): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COMonster_Practice>::CreateObj(int,int)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(103): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COMonster_Practice>::CreateObj(int,int)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(103): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COMonster_Practice>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(20,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,19): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(26): message : 클래스 템플릿 멤버 함수 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'을(를) 컴파일하는 중입니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(36): message : 컴파일되는 함수 템플릿 인스턴스화 'CObj *AbstractFactory<COLeo>::CreateObj(int,int,bool)'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OVolcano.cpp(36): message : 컴파일되는 클래스 템플릿 인스턴스화 'AbstractFactory<COLeo>'에 대한 참조를 확인하세요.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\AbstractFactory.h(29,16): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Player_Death.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Player_Death.cpp(41,67): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Player_Death.cpp(41,52): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Player_Death.cpp(41,39): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Player_Death.cpp(41,25): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SBeroia.cpp
+  Scene.cpp
+  SceneMgr.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SceneMgr.cpp(26,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Shiled_Atk.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Shiled_Atk.cpp(37,49): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\Shiled_Atk.cpp(37,31): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  SLoading.cpp
+  SMiniGame.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.h(36,31): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OHorseRace.h(37,34): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SMiniGame.cpp(22,76): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SoundMgr.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SoundMgr.h(65,15): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SoundMgr.cpp(106,24): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SoundMgr.cpp(116,24): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  SRaven.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SRaven.cpp(26,76): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SRocoTown.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  SSanctuary.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SSanctuary.cpp(24,76): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SSelectCharacter.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\SSelectCharacter.cpp(31,77): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  SSelectMode.cpp
+  SSelectStage.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\OSelectMap.h(43,19): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  STutorial.cpp
+  SVolcano.cpp
+  TeamDiesIrae_GeometryDash.cpp
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\TeamDiesIrae_GeometryDash.cpp(70,18): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\TeamDiesIrae_GeometryDash.cpp(71,18): warning C4244: '초기화 중': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\TeamDiesIrae_GeometryDash.cpp(97,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\TeamDiesIrae_GeometryDash\TeamDiesIrae_GeometryDash.cpp(105,31): warning C4244: '=': 'ULONGLONG'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  TeamDiesIrae_GeometryDash.vcxproj -> E:\게임 제작 관련\Team_DiesIrae MercStoria_End\TeamDiesIrae_GeometryDash_Ground4 (1)\Debug\TeamDiesIrae_GeometryDash.exe
